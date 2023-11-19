@@ -1,0 +1,17 @@
+.Login{
+    background: #4facfe;
+    background: -webkit-linear-gradient(to right, rgba(79,172,254,0.5), rgba(0,242,254,0.5));
+    background: linear-gradient(to right, rgba(79,172,254,0.5), rgba(0,242,254,0.5));
+    padding: 10px;
+    border-radius: 10px;
+    width: 100vh;
+}
+
+.register{
+    background: #4facfe;
+    background: -webkit-linear-gradient(to right, rgba(79,172,254,0.5), rgba(0,242,254,0.5));
+    background: linear-gradient(to right, rgba(79,172,254,0.5), rgba(0,242,254,0.5));
+    padding: 10px;
+    border-radius: 10px;
+    width: 100vh;
+}
